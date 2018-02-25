@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/kumam8/Desktop/AndroidRestAPI/AndroidRestAPI/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/kumam8/Desktop/AndroidRestAPI/AndroidRestAPI/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kumam8/Desktop/AndroidRestAPI/Authenticate/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/kumam8/Desktop/AndroidRestAPI/Authenticate/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]
